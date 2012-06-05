@@ -6,6 +6,9 @@
     <folder Name="Source Files">
       <configuration Name="Common" filter="c;cpp;cxx;cc;h;s;asm;inc"/>
       <file file_name="main.c"/>
+      <file file_name="system_stm32f4xx.c"/>
+      <file file_name="delay.c"/>
+      <file file_name="delay.h"/>
     </folder>
     <folder Name="System Files">
       <file file_name="$(StudioDir)/source/thumb_crt0.s"/>
